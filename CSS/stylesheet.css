@@ -138,7 +138,7 @@ transition-duration: 100ms;
 
 h1 {color: rgb(28, 27, 68)}
 
-.background {background-image: url("/Images/frostcampus.jpg");
+.background {background-image: url("../Images/frostcampus.jpg");
 background-position: cover;
 background-repeat: no-repeat;
 }
