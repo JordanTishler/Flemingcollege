@@ -74,7 +74,7 @@ div.titlep {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   margin-top: 100px;
-  max-width: 600px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   }
@@ -138,7 +138,7 @@ transition-duration: 100ms;
 
 h1 {color: rgb(28, 27, 68)}
 
-.background {background-image: url("../Images/frostcampus.jpg");
+.background {background-image: url("/Images/frostcampus.jpg");
 background-position: cover;
 background-repeat: no-repeat;
 }
@@ -257,7 +257,7 @@ margin-top: 50px;
 }
 
 .max1 {
-  max-width: 600px; max-height: 563px;
+  max-width: 500px; max-height: 469px;
 }
 
 .width100 {
