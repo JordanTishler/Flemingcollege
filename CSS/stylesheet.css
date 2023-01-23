@@ -260,6 +260,9 @@ margin-top: 50px;
   max-width: 500px; max-height: 469px;
 }
 
+.max2 {
+  max-width: 806px; max-height: 500px;
+}
 .width100 {
   width: 100%;
 }
