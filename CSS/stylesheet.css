@@ -107,10 +107,6 @@ div.titlep {
   margin-top: -10px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.profile{
-  float:inherit;
-  padding-right: -20px;
-}
 .learn {
 margin-top: 2%;
 margin-left: 10px;
@@ -140,7 +136,6 @@ transition-duration: 150ms;
 h1 {color: rgb(28, 27, 68)}
 
 .background {background-image: url("../Images/frostcampus.jpg");
-background-position: cover;
 background-repeat: no-repeat;
 }
 
