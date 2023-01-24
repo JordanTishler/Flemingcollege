@@ -122,18 +122,19 @@ clear: both;}
 .learns{
   font-size: 15px;
   border-radius: 5px;
-  padding: 5px;
+  padding: 8px;
   background-color: black;
   color: white;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
+  text-decoration-line: none;
 }
 
 .learns:hover { 
 background-color: white;
 color: black;
 transition: ease-in;
-transition-duration: 100ms;
+transition-duration: 150ms;
 }
 
 h1 {color: rgb(28, 27, 68)}
