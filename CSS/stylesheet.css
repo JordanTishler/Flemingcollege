@@ -57,7 +57,7 @@
 }
 
 div.title {float: left;
-background-color: rgba(255, 255, 255, 0.479);
+background-color: rgba(255, 255, 255, 0.76);
 font-weight: bold;
 font-family: Arial, Helvetica, sans-serif;
 margin-top: 20%;
@@ -65,11 +65,12 @@ margin-left: 10px;
 border-radius: 10px;
 padding-left: 10px;
 padding-right: 10px;
+max-width: 1000px;
 
 }
 
 div.titlep {
-  background-color: rgba(255, 255, 255, 0.26);
+  background-color: rgba(255, 255, 255, 0.74);
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
@@ -77,6 +78,7 @@ div.titlep {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 10px 
   }
 
   div.titlea {
